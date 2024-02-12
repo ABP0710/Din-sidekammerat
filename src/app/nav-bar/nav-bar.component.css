@@ -1,0 +1,9 @@
+.navbar{
+    background-color: black;
+}
+
+a{
+    margin: 10%;
+    font-weight: bold;
+    color: white;
+}
